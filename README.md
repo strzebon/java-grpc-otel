@@ -1,5 +1,5 @@
 # Java - gRPC - OTel application
-Thursdays at 8:45 AM, 2025
+Movie Finder is a demo Java microservices application showcasing gRPC-based communication (unary, streaming, bidirectional) across four services. The project integrates full observability using OpenTelemetry for traces, metrics, and logs, with Grafana for visualization.
 
 ## Authors
 - Mateusz Waga
